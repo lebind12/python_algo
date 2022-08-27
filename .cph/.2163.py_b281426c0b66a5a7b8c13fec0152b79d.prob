@@ -1,0 +1,1 @@
+{"name":"Local: 2163","url":"c:\\Users\\HOP\\python_algo\\2163.py","tests":[{"id":1661066363236,"input":"2 2","output":"3"},{"id":1661066643626,"input":"1 1","output":"0"},{"id":1661066695473,"input":"2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HOP\\python_algo\\2163.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 2914","url":"c:\\Users\\HOP\\python_algo\\2914.py","tests":[{"id":1661073279261,"input":"38 24","output":"875"},{"id":1661073304523,"input":"1 100","output":"100"},{"id":1661073310494,"input":"10 10","output":"91"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HOP\\python_algo\\2914.py","group":"local","local":true}

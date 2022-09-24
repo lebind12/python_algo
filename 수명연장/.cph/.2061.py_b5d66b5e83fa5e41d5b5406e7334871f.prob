@@ -1,0 +1,1 @@
+{"name":"Local: 2061","url":"c:\\Users\\HOP\\python_algo\\수명연장\\2061.py","tests":[{"id":1663926483862,"input":"143 11","output":"GOOD"},{"id":1663926487561,"input":"143 12","output":"BAD 11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HOP\\python_algo\\수명연장\\2061.py","group":"local","local":true}
